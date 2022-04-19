@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Project
 
 > Description the project.
 > This project set up a "Hello world" repository.
