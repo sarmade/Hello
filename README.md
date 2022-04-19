@@ -17,7 +17,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+<!-- [Live Demo Link](https://livedemo.com) -->
 
 
 ## Getting Started
@@ -46,9 +46,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Kevin**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://reve-d-ailleurs.com/)
+- Twitter: [@twitterhandle](https://reve-d-ailleurs.com/)
+- LinkedIn: [LinkedIn](https://reve-d-ailleurs.com/)
 
 👤 **Author2**
 
