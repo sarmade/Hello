@@ -3,13 +3,17 @@
 # Project Name
 
 > Description the project.
+> This project set up a "Hello world" repository.
+> The goal here is to master all of the tools and best practices.
+> Those tools will bwe in all Microverse projects and most likely in a future job as well, so it is important to know them!
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Languages : HTML & CSS
+- Frameworks : No
+- Technologies used : HTML5
 
 ## Live Demo (if available)
 
@@ -40,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kevin**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
