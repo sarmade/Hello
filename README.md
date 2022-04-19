@@ -13,8 +13,6 @@
 ## Built With
 
 - Languages : HTML & CSS
-- Frameworks : No
-- Technologies used : HTML5
 
 ## Live Demo
 
@@ -24,7 +22,7 @@ Not available yet.
 
 👤 **Kevin**
 
-- GitHub: [@githubhandle](https://github.com/sarmade/Hello/)
+- GitHub: [@Sarmade](https://github.com/sarmade/Hello/)
 
 ## 🤝 Contributing
 
@@ -38,9 +36,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
-- etc
 
 ## 📝 License
 
