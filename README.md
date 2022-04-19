@@ -3,8 +3,11 @@
 # Hello Project
 
 > Description the project.
+> 
 > This project set up a "Hello world" repository.
+> 
 > The goal here is to master all of the tools and best practices.
+> 
 > Those tools will bwe in all Microverse projects and most likely in a future job as well, so it is important to know them!
 
 
@@ -15,8 +18,9 @@
 - Frameworks : No
 - Technologies used : HTML5
 
-## Live Demo (if available)
+## Live Demo
 
+Not available yet.
 <!-- [Live Demo Link](https://livedemo.com) -->
 
 
